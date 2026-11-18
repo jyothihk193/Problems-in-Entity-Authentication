@@ -41,7 +41,7 @@ The OTP can be used once per program run. Restart the program to reset the in-me
 
 ## Project team
 - H K Jyothi
-- Chan Dana R
+- Chandana R
 - Bindu V Gowda
 - Amrutha G
 
